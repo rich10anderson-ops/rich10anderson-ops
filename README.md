@@ -2,6 +2,7 @@
 
  **Full Stack Developer (Frontend)** en constante crecimiento, especializado en la creación de aplicaciones web seguras y con un diseño cuidadosamente elaborado.  
 Mi enfoque se centra en la **claridad, la resiliencia y el equilibrio**, asegurando que cada proyecto combine solidez técnica con escalabilidad y una experiencia de usuario refinada.
+Creo en el aprendizaje continuo como el motor del crecimiento profesional y en la tecnología como una herramienta para transformar ideas en soluciones con impacto. Cada línea de código representa un compromiso con la calidad, la escalabilidad y la mejora continua, buscando el equilibrio entre una arquitectura sólida, un rendimiento eficiente y una experiencia de usuario intuitiva. Mi objetivo es construir software que no solo funcione, sino que genere valor, inspire confianza y contribuya positivamente a la vida de las personas.
 
 
 ---
@@ -38,9 +39,7 @@ React · TypeScript · Node.js · Firestore · PostgreSQL · Vercel -  GitHub Wo
 ---
 
 ## 🌱 Filosofía
-Creo en el aprendizaje constante y en la tecnología como herramienta para mejorar vidas.  
-Cada línea de código refleja mi búsqueda de equilibrio entre funcionalidad y estética.
-
+Creo en el aprendizaje continuo y en la tecnología como una herramienta para generar impacto real. Cada línea de código es una oportunidad para crear soluciones funcionales, escalables y con una experiencia de usuario cuidadosamente diseñada. Mi objetivo no es solo desarrollar software, sino construir productos que aporten valor a las personas.
 ---
 📫 Contacto (redes sociales)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-gonzalez)
