@@ -51,4 +51,4 @@ Cada línea de código refleja mi búsqueda de equilibrio entre funcionalidad y 
 
 ## 📫 Contacto
 ✉️ rich10anderson@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/richard-gonzalez)
+🔗 [LinkedIn] (www.linkedin.com/in/richard-gonzalez-3634523a0)
