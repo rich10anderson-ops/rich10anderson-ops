@@ -1,26 +1,29 @@
 # 👋 Hola, soy Richard González
 
-**Full Stack Developer** en proceso de crecimiento, con el arte de crear aplicaciones web seguras y con diseño cuidado.  
-Mi enfoque combina **claridad, resiliencia y equilibrio**, buscando que cada proyecto refleje tanto técnica como escalabilidad.
+ **Full Stack Developer (Frontend)** en constante crecimiento, especializado en la creación de aplicaciones web seguras y con un diseño cuidadosamente elaborado.  
+Mi enfoque se centra en la **claridad, la resiliencia y el equilibrio**, asegurando que cada proyecto combine solidez técnica con escalabilidad y una experiencia de usuario refinada.
+
 
 ---
 
 ## 🚀 Stack principal
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![React](https://img.shields.io/badge/⚛️_React-61DAFB?style=plastic&logo=react&logoColor=black&labelColor=20232A)
+![TypeScript](https://img.shields.io/badge/🌀_TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white&labelColor=1E1E1E)
+![Node.js](https://img.shields.io/badge/🌿_Node.js-339933?style=plastic&logo=node.js&logoColor=white&labelColor=1E1E1E)
+![PostgreSQL](https://img.shields.io/badge/🐘_PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white&labelColor=1E1E1E)
+![Firebase](https://img.shields.io/badge/🔥_Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black&labelColor=1E1E1E)
+![Vercel](https://img.shields.io/badge/▲_Vercel-000000?style=plastic&logo=vercel&logoColor=white&labelColor=1E1E1E)
 
+---
 
 ## 🛠️ Herramientas y flujo de trabajo
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 
+---
 
 ## 🚀 Tecnologías
 React · TypeScript · Node.js · Firestore · PostgreSQL · Vercel -  GitHub Workflow · CSS Animations
@@ -37,6 +40,12 @@ React · TypeScript · Node.js · Firestore · PostgreSQL · Vercel -  GitHub Wo
 ## 🌱 Filosofía
 Creo en el aprendizaje constante y en la tecnología como herramienta para mejorar vidas.  
 Cada línea de código refleja mi búsqueda de equilibrio entre funcionalidad y estética.
+
+---
+📫 Contacto (redes sociales)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-gonzalez)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rich10anderson@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lestetique.com)
 
 ---
 
